@@ -17,6 +17,7 @@ window.bind("q", quit)
 window.configure(background='pink')
 sh = window.winfo_screenheight()
 sw = window.winfo_screenwidth()
+# Hello
 
 window.geometry(f"{sw}x{sh}+0+0")
 
